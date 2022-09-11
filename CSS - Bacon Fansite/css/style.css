@@ -1,0 +1,27 @@
+/* TAG SELECTOR */
+h1 {
+  color: red;
+  font-size: 150px;
+}
+
+/* img {
+  height: 100px;
+  background-color: red;
+} */
+
+/* CLASS SELECTOR */
+.bacon {
+  height: 100px;
+  background-color: red;
+}
+
+.carrot {
+  height: 100px;
+  background-color: green;
+}
+
+/* PSEUDO CLASS */
+
+img:hover {
+  background-color: gold;
+}
